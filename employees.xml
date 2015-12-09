@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<CompanyList>
+	<Data>
+		<name>Tesla Motors</name>
+		<shortTitle>TSLA</shortTitle>
+		<dateUpdate>09.06.2016</dateUpdate>
+		<address>USA Palo Alto, CA</address>
+		<dateFoundation>01.05.2003</dateFoundation>
+		<countEmployees>6000</countEmployees>
+		<auditor>TRE</auditor>
+		<phone>+1-589-479-1583</phone>
+		<email>support@teslamotors.com</email>
+		<branch>Automotive</branch>
+		<activity>ElectroCars</activity>
+		<internetAddress>teslamotors.com</internetAddress>
+	</Data>
+	<Data>
+		<name>Yandex</name>
+		<shortTitle>YNDX</shortTitle>
+		<dateUpdate>11.09.2012</dateUpdate>
+		<address>RUSSIA Moscow</address>
+		<dateFoundation>23.09.1997</dateFoundation>
+		<countEmployees>4500</countEmployees>
+		<auditor>MFM</auditor>
+		<phone>+1-154-583-1714</phone>
+		<email>support@yandex.com</email>
+		<branch>Information Technology</branch>
+		<activity>Software</activity>
+		<internetAddress>yandex.com</internetAddress>
+	</Data>
+	<Data>
+		<name>Porsche</name>
+		<shortTitle>FAH3</shortTitle>
+		<dateUpdate>12.10.2010</dateUpdate>
+		<address>GERMANY Porscheplatz Stuttgart</address>
+		<dateFoundation>24.03.1931</dateFoundation>
+		<countEmployees>12722</countEmployees>
+		<auditor>TRE</auditor>
+		<phone>+49-180-5-356911</phone>
+		<email>support@porsche.com</email>
+		<branch>Automotive</branch>
+		<activity>Cars</activity>
+		<internetAddress>porsche.com</internetAddress>
+	</Data>
+	<Data>
+		<name>Google</name>
+		<shortTitle>GOOG</shortTitle>
+		<dateUpdate>18.03.2012</dateUpdate>
+		<address>USA Mountain View, CA</address>
+		<dateFoundation>04.09.1998</dateFoundation>
+		<countEmployees>59976</countEmployees>
+		<auditor>MMM</auditor>
+		<phone>+1-589-416-3548</phone>
+		<email>support@google.com</email>
+		<branch>Information Technology</branch>
+		<activity>Internet/Software</activity>
+		<internetAddress>google.com</internetAddress>
+	</Data>
+</CompanyList>

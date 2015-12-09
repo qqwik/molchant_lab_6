@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<CompanyList>
+	<Data>
+		<name>Google</name>
+		<shortTitle>GOOG</shortTitle>
+		<dateUpdate>18.03.2012</dateUpdate>
+		<address>USA Mountain View, CA</address>
+		<dateFoundation>04.09.1998</dateFoundation>
+		<countEmployees>59976</countEmployees>
+		<auditor>MMM</auditor>
+		<phone>+1-589-416-3548</phone>
+		<email>support@google.com</email>
+		<branch>Information Technology</branch>
+		<activity>Internet/Software</activity>
+		<internetAddress>google.com</internetAddress>
+	</Data>
+</CompanyList>

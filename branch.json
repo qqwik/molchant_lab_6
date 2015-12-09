@@ -1,0 +1,48 @@
+{
+	"CompanyList": {
+		"Data": [
+			{
+				"name": "Tesla Motors",
+				"shortTitle": "TSLA",
+				"dateUpdate": "09.06.2016",
+				"address": "USA Palo Alto, CA",
+				"dateFoundation": "01.05.2003",
+				"countEmployees": "6000",
+				"auditor": "TRE",
+				"phone": "+1-589-479-1583",
+				"email": "support@teslamotors.com",
+				"branch": "Automotive",
+				"activity": "ElectroCars",
+				"internetAddress": "teslamotors.com"
+			},
+			{
+				"name": "Porsche",
+				"shortTitle": "FAH3",
+				"dateUpdate": "12.10.2010",
+				"address": "GERMANY Porscheplatz Stuttgart",
+				"dateFoundation": "24.03.1931",
+				"countEmployees": "12722",
+				"auditor": "TRE",
+				"phone": "+49-180-5-356911",
+				"email": "support@porsche.com",
+				"branch": "Automotive",
+				"activity": "Cars",
+				"internetAddress": "porsche.com"
+			},
+			{
+				"name": "Volkswagen",
+				"shortTitle": "VLWGN",
+				"dateUpdate": "12.04.2015",
+				"address": "GERMANY Salzgitter",
+				"dateFoundation": "28.05.1946",
+				"countEmployees": "583423",
+				"auditor": "MMM",
+				"phone": "+49 5341 232236",
+				"email": "support@volkswagenag.com",
+				"branch": "Automotive",
+				"activity": "Cars Engines",
+				"internetAddress": "volkswagenag.com"
+			}
+		]
+	}
+}

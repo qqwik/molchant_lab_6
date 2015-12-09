@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<CompanyList>
+	<Data>
+		<name>Tesla Motors</name>
+		<shortTitle>TSLA</shortTitle>
+		<dateUpdate>09.06.2016</dateUpdate>
+		<address>USA Palo Alto, CA</address>
+		<dateFoundation>01.05.2003</dateFoundation>
+		<countEmployees>6000</countEmployees>
+		<auditor>TRE</auditor>
+		<phone>+1-589-479-1583</phone>
+		<email>support@teslamotors.com</email>
+		<branch>Automotive</branch>
+		<activity>ElectroCars</activity>
+		<internetAddress>teslamotors.com</internetAddress>
+	</Data>
+	<Data>
+		<name>Porsche</name>
+		<shortTitle>FAH3</shortTitle>
+		<dateUpdate>12.10.2010</dateUpdate>
+		<address>GERMANY Porscheplatz Stuttgart</address>
+		<dateFoundation>24.03.1931</dateFoundation>
+		<countEmployees>12722</countEmployees>
+		<auditor>TRE</auditor>
+		<phone>+49-180-5-356911</phone>
+		<email>support@porsche.com</email>
+		<branch>Automotive</branch>
+		<activity>Cars</activity>
+		<internetAddress>porsche.com</internetAddress>
+	</Data>
+	<Data>
+		<name>Volkswagen</name>
+		<shortTitle>VLWGN</shortTitle>
+		<dateUpdate>12.04.2015</dateUpdate>
+		<address>GERMANY Salzgitter</address>
+		<dateFoundation>28.05.1946</dateFoundation>
+		<countEmployees>583423</countEmployees>
+		<auditor>MMM</auditor>
+		<phone>+49 5341 232236</phone>
+		<email>support@volkswagenag.com</email>
+		<branch>Automotive</branch>
+		<activity>Cars Engines</activity>
+		<internetAddress>volkswagenag.com</internetAddress>
+	</Data>
+</CompanyList>

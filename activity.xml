@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<CompanyList>
+	<Data>
+		<name>Porsche</name>
+		<shortTitle>FAH3</shortTitle>
+		<dateUpdate>12.10.2010</dateUpdate>
+		<address>GERMANY Porscheplatz Stuttgart</address>
+		<dateFoundation>24.03.1931</dateFoundation>
+		<countEmployees>12722</countEmployees>
+		<auditor>TRE</auditor>
+		<phone>+49-180-5-356911</phone>
+		<email>support@porsche.com</email>
+		<branch>Automotive</branch>
+		<activity>Cars</activity>
+		<internetAddress>porsche.com</internetAddress>
+	</Data>
+</CompanyList>

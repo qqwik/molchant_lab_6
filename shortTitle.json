@@ -1,0 +1,20 @@
+{
+	"CompanyList": {
+		"Data": [
+			{
+				"name": "Google",
+				"shortTitle": "GOOG",
+				"dateUpdate": "18.03.2012",
+				"address": "USA Mountain View, CA",
+				"dateFoundation": "04.09.1998",
+				"countEmployees": "59976",
+				"auditor": "MMM",
+				"phone": "+1-589-416-3548",
+				"email": "support@google.com",
+				"branch": "Information Technology",
+				"activity": "Internet/Software",
+				"internetAddress": "google.com"
+			}
+		]
+	}
+}

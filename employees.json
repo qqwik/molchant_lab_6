@@ -1,0 +1,62 @@
+{
+	"CompanyList": {
+		"Data": [
+			{
+				"name": "Tesla Motors",
+				"shortTitle": "TSLA",
+				"dateUpdate": "09.06.2016",
+				"address": "USA Palo Alto, CA",
+				"dateFoundation": "01.05.2003",
+				"countEmployees": "6000",
+				"auditor": "TRE",
+				"phone": "+1-589-479-1583",
+				"email": "support@teslamotors.com",
+				"branch": "Automotive",
+				"activity": "ElectroCars",
+				"internetAddress": "teslamotors.com"
+			},
+			{
+				"name": "Yandex",
+				"shortTitle": "YNDX",
+				"dateUpdate": "11.09.2012",
+				"address": "RUSSIA Moscow",
+				"dateFoundation": "23.09.1997",
+				"countEmployees": "4500",
+				"auditor": "MFM",
+				"phone": "+1-154-583-1714",
+				"email": "support@yandex.com",
+				"branch": "Information Technology",
+				"activity": "Software",
+				"internetAddress": "yandex.com"
+			},
+			{
+				"name": "Porsche",
+				"shortTitle": "FAH3",
+				"dateUpdate": "12.10.2010",
+				"address": "GERMANY Porscheplatz Stuttgart",
+				"dateFoundation": "24.03.1931",
+				"countEmployees": "12722",
+				"auditor": "TRE",
+				"phone": "+49-180-5-356911",
+				"email": "support@porsche.com",
+				"branch": "Automotive",
+				"activity": "Cars",
+				"internetAddress": "porsche.com"
+			},
+			{
+				"name": "Google",
+				"shortTitle": "GOOG",
+				"dateUpdate": "18.03.2012",
+				"address": "USA Mountain View, CA",
+				"dateFoundation": "04.09.1998",
+				"countEmployees": "59976",
+				"auditor": "MMM",
+				"phone": "+1-589-416-3548",
+				"email": "support@google.com",
+				"branch": "Information Technology",
+				"activity": "Internet/Software",
+				"internetAddress": "google.com"
+			}
+		]
+	}
+}
